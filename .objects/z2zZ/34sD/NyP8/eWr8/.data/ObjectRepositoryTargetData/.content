@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ij0LSBqX40OEV58-IdEWBQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/104073823" CVScreenId="f25674a0-b3fc-4f29-a773-29fa085b21ae" DesignTimeRectangle="871, 767, 210, 45" DesignTimeScaleFactor="1.350000023841858" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname=' Update Work Item' tag='BUTTON' /&gt;" Guid="a126dffb-4c94-4c78-9fb8-064e84110214" ScopeSelectorArgument="&lt;html app='msedge.exe' url='https://acme-test.uipath.com/work-items/*' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="51441601406dd7c42a99ffc432567afa.png" xmlns="">0sP1wkDey90y3O2tDU7A48w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

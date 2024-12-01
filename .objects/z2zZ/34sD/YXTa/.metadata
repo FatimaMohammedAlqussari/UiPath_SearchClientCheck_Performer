@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge ACME System 1 - Upload Client Check(1)",
+  "Type": "Screen",
+  "Id": "YXTajiaaVkeKrlGg1CcYnw",
+  "Reference": "BmYIsOCjwU66FM1xELBbQw/YXTajiaaVkeKrlGg1CcYnw",
+  "ParentRef": "BmYIsOCjwU66FM1xELBbQw/34sD_TyOtk6090FMMwFexA",
+  "Created": "2024-11-24T06:25:51.7348426Z",
+  "Updated": "2024-11-24T06:25:51.7348426Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

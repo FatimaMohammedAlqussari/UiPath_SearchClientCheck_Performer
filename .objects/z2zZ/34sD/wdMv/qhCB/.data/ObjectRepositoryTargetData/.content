@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jnTK61GPHUyigFqd4K9A2Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/checks/upload" CVScreenId="2058e4da-6516-4af8-bf5e-d5ec8a0e20f6" DesignTimeRectangle="284, 663, 655, 46" DesignTimeScaleFactor="1.350000023841858" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='checkNumber' tag='INPUT' parentname='searchForm' type='text' /&gt;" Guid="7959bcda-117e-435f-87b4-1a2289f4c6a6" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Upload Client Check' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="2058e4da-6516-4af8-bf5e-d5ec8a0e20f6" DesignTimeRectangle="284, 629, 140, 27" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='LABEL' visibleinnertext='Check Number:' /&gt;" Guid="b04288e6-6e99-4c35-91e9-74b75c757a08" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="dff2f7317ee1c816e90021fd0b0e2b3e.png" xmlns="">0C5rQ7sl8Tk-Vnfkz5grwNw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

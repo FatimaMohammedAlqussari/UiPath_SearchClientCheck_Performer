@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="DtQyaQszf0-J1FNSjHTJng" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/checks/search" CVScreenId="ad05e2bd-c467-4835-9699-517b6e51192a" DesignTimeRectangle="284, 734, 297, 45" DesignTimeScaleFactor="1.350000023841858" ElementType="Button" FullSelectorArgument="[string.Format(&quot;&lt;webctrl aria-role='button' tag='BUTTON' type='button' visibleinnertext='*{0}' /&gt;&quot;, str_Month)]" Guid="a98b8753-2684-49dd-85ee-88465da2b383" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Search Client Check' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ad05e2bd-c467-4835-9699-517b6e51192a" DesignTimeRectangle="284, 700, 63, 27" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='LABEL' visibleinnertext='Month:' /&gt;" Guid="c6cc300c-1935-488f-9dab-f332f11d05d8" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d0550b33d3b1a44b2e89327d158261c4.png" xmlns="">0Ba36u_pQ4EKF7Am8KIz3MA</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="str_Month" />
+    </scg:List>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

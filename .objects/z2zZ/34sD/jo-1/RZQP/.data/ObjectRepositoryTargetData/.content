@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="SKVzDZa2xUOhObqq2e7rSQ" Reference="BmYIsOCjwU66FM1xELBbQw/RZQPTxhEMkO8OF0MwVJreQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com" CVScreenId="6eaec8a9-d540-49e6-92a2-91ebf2334aac" DesignTimeRectangle="14, 169, 0, 0" DesignTimeScaleFactor="1.350000023841858" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='dashmenu' tag='A' visibleinnertext='Submit Check Copy' /&gt;" Guid="5e5cc54f-66b9-42ae-98bb-b242db6dc126" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Dashboard' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6eaec8a9-d540-49e6-92a2-91ebf2334aac" DesignTimeRectangle="284, 819, 270, 61" ElementType="Button" FullSelectorArgument="&lt;webctrl parentid='dashmenu' tag='BUTTON' visibleinnertext=' Checks' /&gt;" Guid="da2b8b88-b9b3-4794-af8c-261d8efca5ea" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6c848273958b33097bdd092d10367c9a.png" xmlns="">0iWmOsEbkq0aGOa5AWi0EWQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

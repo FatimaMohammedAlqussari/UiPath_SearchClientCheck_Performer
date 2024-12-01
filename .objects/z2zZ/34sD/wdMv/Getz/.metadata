@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Select Check Copy File",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "GetzOxApNEaOnBKMyr2u7g",
+  "Reference": "BmYIsOCjwU66FM1xELBbQw/GetzOxApNEaOnBKMyr2u7g",
+  "ParentRef": "BmYIsOCjwU66FM1xELBbQw/wdMvgRfQX0-Ld6Cmba2jeQ",
+  "Created": "2024-11-23T19:49:16.0775536Z",
+  "Updated": "2024-11-23T19:49:16.0775536Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

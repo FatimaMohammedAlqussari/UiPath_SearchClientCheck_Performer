@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RV1ESPsv4ka3WQz2lRnFxw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="6daa7c3a-047d-4d68-9239-1bec5917cd1b" DesignTimeRectangle="191, 248, 220, 26" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;wnd ctrlname='groupBox1' title='Search Form' /&gt;&lt;wnd ctrlname='dateTimePicker1' /&gt;" Guid="352ffaed-d9ff-4f6d-95ec-d918d1f42c8d" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='acme-system3.exe' automationid='SearchCheckCopy' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6daa7c3a-047d-4d68-9239-1bec5917cd1b" DesignTimeRectangle="37, 252, 87, 19" ElementType="Text" FullSelectorArgument="&lt;wnd ctrlname='groupBox1' /&gt;&lt;wnd ctrlname='label2' /&gt;&lt;ctrl role='text' text='Check Date' /&gt;" Guid="ed5f9f0f-9b39-4251-b13a-bf85abf43e09" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8e7cabcf5adeffc80b4eb2e9035ea907.png" xmlns="">0lURBwrw4dk6rJbmRPYSDQw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
